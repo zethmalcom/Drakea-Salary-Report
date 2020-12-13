@@ -1,0 +1,60 @@
+10/13/2019     Y3I                  DRAKEA, LTD                         PAGE 01
+
+                                   SALARY REPORT
+
+WAREHOUSE:  ALABAMA
+
+
+  EMPLOYEE    EMPLOYEE     EMPLOYEE    INCREASED     INCREASED    INCREASED
+     ID       POSITION    LAST NAME     CURRENT      UNION DUES   INSURANCE
+
+   M7Y10     MANAGER      BENNET       $267,750.00   $   313.12   $   690.37
+   D8Y20     SUPERVISOR   HARRISON     $966,000.00   $   776.62   $   787.50
+   D6N30     SUPERVISOR   JOHNSON      $584,850.00   $   776.62   $   787.50
+   OY9T4     OFFICE       PETERS       $501,900.00   $   262.65   $   267.22
+   O8N50     OFFICE       MASTERS      $564,900.00   $   262.65   $   267.22
+   W9M60     OFFICE       GOMEZ        $677,250.00   $   262.65   $   267.22
+   W9M70     WAREHOUSE    JANSEN       $375,900.00   $   777.65   $   531.82
+   W3L80     WAREHOUSE    HARLEY       $394,800.00   $   777.65   $   531.82
+   W3D90     WAREHOUSE    YOUNG        $607,950.00   $   777.65   $   531.82
+   W3100     WAREHOUSE    SANTIAGO     $480,900.00   $   777.65   $   531.82
+   E4110     SECURITY     CAMERON      $771,750.00   $     4.12   $   265.12
+   E8120     SECURITY     MICHAELS     $837,900.00   $     4.12   $   265.12
+
+
+                   WAREHOUSE TOTAL :  $7,031,850.00  $  5,773.15  $  5,724.55
+
+
+WAREHOUSE:  GEORGIA
+
+
+  EMPLOYEE    EMPLOYEE     EMPLOYEE    INCREASED     INCREASED    INCREASED
+     ID       POSITION    LAST NAME     CURRENT      UNION DUES   INSURANCE
+
+   L8Y11     MANAGER      CARTER       $950,565.00   $   364.62   $   637.87
+   M9Z22     SUPERVISOR   DENSON       $761,255.25   $   570.62   $   262.50
+   D6N40     SUPERVISOR   SMITH        $626,850.00   $   570.62   $   262.50
+   I23J9     OFFICE       HARRIS       $572,250.00   $   108.15   $     4.72
+   D32L3     WAREHOUSE    LESTER       $450,555.00   $   673.62   $   741.82
+   G45W3     WAREHOUSE    SANTIAGO     $396,900.00   $   673.62   $   741.82
+   M42T8     SECURITY     CAMERON      $478,443.00   $     4.12   $   317.62
+
+
+                   WAREHOUSE TOTAL :  $4,236,818.25  $  2,965.37  $  2,968.85
+
+
+WAREHOUSE:  MISSISSIPPI
+
+
+  EMPLOYEE    EMPLOYEE     EMPLOYEE    INCREASED     INCREASED    INCREASED
+     ID       POSITION    LAST NAME     CURRENT      UNION DUES   INSURANCE
+
+   R43W5     MANAGER      BRATHEM      $614,250.00   $   107.12   $   690.37
+   S65W7     SUPERVISOR   WEST         $525,000.00   $   158.62   $   787.50
+   V98W6     OFFICE       YOSTER       $351,750.00   $   158.62   $   267.22
+   X89Y6     WAREHOUSE    MUNCE        $450,975.00   $   570.62   $   531.82
+   C63D6     WAREHOUSE    SANDERS      $405,877.50   $   570.62   $   531.82
+   T78P0     SECURITY     HALETTE      $614,838.00   $     4.12   $   265.12
+
+
+                   WAREHOUSE TOTAL :  $2,962,690.50  $  1,569.72  $  3,073.85
