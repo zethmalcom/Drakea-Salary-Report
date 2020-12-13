@@ -1,6 +1,6 @@
 # Drakea Salary Report 
 
-This program generates a salary report for a fake small company names Drakea, Ltd. This company supplies pizza restaurants with sauce, cheese, meats, and veggies and are split up among 3 different warehouses. 
+This program generates a salary report for a fake company names Drakea, Ltd. This company supplies pizza restaurants with sauce, cheese, meats, and veggies and are split up among 3 different warehouses. 
 
 ## The salary report generated:  
 * Groups the data by Warehouse
